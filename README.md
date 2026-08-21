@@ -16,14 +16,4 @@ Each language README describes the scenario, architecture and labs in detail for
 
 ### Workshop architects
 
-- 🇨🇴 María del Pilar Prieto – AIBS Architect
-- 🇨🇴 Maritza Mera – Data & AI Architect
-- 🇦🇷 Mariano Gonzalez – AIBS Architect
-- 🇧🇷 Djalma Franco – AIBS Architect
-- 🇨🇴 Ricardo Mejía – AIBS Architect
-- 🇨🇱 Octavio Carcamo – AIBS Architect
-- 🇲🇽 Alejandro Vargas – Security Architect
-- 🇲🇽 Jesús Hernández – Data & AI Architect
-- 🇨🇴 Oscar Gutiérrez – C&AI Architect
-- us Sergio Plascencia Schaefer - AIBS Architect
-- 🇨🇴 [Walter Novoa](https://github.com/warnov) – C&AI Architect
+- 🇨🇴 [Alexander Leon](https://github.com/alexanderl39) – Regional Cloud Solutions Architect
