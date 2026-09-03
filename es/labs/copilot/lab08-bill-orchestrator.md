@@ -80,7 +80,7 @@ Al completar este laboratorio, ustedes van a aprender:
 
 ---
 
-## Agente Charlie (No Ejeuctar)
+## ⚠️ Agente Charlie (No Ejecutar)
 
 Vamos a repetir el proceso realizado en Mark y Anders, pero seleccionando Charlie como un agente interno creado en nuestro ambiente.
 
