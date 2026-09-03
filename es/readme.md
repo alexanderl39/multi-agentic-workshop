@@ -117,12 +117,12 @@ El workshop está dividido en laboratorios independientes pero conectados, organ
 
 - [Setup de infraestructura de Foundry](./labs/foundry/codespaces-setup.md)
 - [Lab 3 – Agente Anders: soporte OpenAPI, despliegue de Function App y ejecución del agente executor](./labs/foundry/lab03-anders-executor-agent.md)
-- [Lab 4 – Agente Julie: workflow agent con sub-agentes SqlAgent y MarketingAgent](./labs/foundry/lab04-julie-planner-agent.md)
+- [Lab 4 – Agente Julie: workflow agent con sub-agentes SqlAgent y MarketingAgent](./labs/foundry/lab04-julie-planner-agent.md) (No Ejecutar)
 
 ### 3. Laboratorios de Copilot Studio
 
 - [Lab 5 – Setup de Copilot Studio: entorno, solución y publisher](./labs/copilot/lab05-mcs-setup.md)
-- [Lab 6 – Agente Charles: Q&A de producto con SharePoint y análisis de mercado](./labs/copilot/lab06-charles-copilot-agent.md)
+- [Lab 6 – Agente Charles: Q&A de producto con SharePoint y análisis de mercado](./labs/copilot/lab06-charles-copilot-agent.md) (NO Ejecutar)
 - [Lab 7 – Agente Ric: agente hijo para envío de correos + configuración inicial de Bill](./labs/copilot/lab07-ric-child-agent.md)
 - [Lab 8 – Orquestador Bill: conexión de agentes externos (Mark, Anders) e internos (Charles) y reglas de orquestación](./labs/copilot/lab08-bill-orchestrator.md)
 - [Lab 9 – Publicación de Bill en Microsoft 365 / Teams y pruebas end-to-end](./labs/copilot/lab09-bill-publishing.md)
