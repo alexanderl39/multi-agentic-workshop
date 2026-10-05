@@ -152,6 +152,9 @@ i. Después de ejecutarlo se mostrará que como resultado se han afectado varias
 
 ---
 
-## Mission Complete
+## **🎉**** Mission Complete
 
-Tu plataforma de datos ha sido creada y tus datos están listos para ser procesados y consumidos por agentes de IA.
+✅**Tu plataforma de datos ha sido creada y tus datos están listos para ser procesados y consumidos por agentes de IA.** ¡Felicitaciones!
+
+
+
