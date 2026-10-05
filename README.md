@@ -1,5 +1,5 @@
 ## <a id="RockStage Academy - MUltiAgentic"></a>RockStage Academy - Multiagentic
-![](../assets/RockStageAcademy.png)
+![image](../assets/RockStageAcademy.png)
 
 ## Contoso Retail Multi‑Agent Workshop
 
