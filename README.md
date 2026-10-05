@@ -17,3 +17,5 @@ Each language README describes the scenario, architecture and labs in detail for
 ### Workshop architects
 
 - 🇨🇴 [Alexander Leon](https://github.com/alexanderl39) – Regional Cloud Solutions Architect
+
+- Linkedln [Alexander Leon](https:www.linkedin.com/in/alexanderleon) 
