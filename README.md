@@ -1,6 +1,6 @@
 ## <a id="RockStage Academy - MUltiAgentic"></a>RockStage Academy - Multiagentic
-Alexander Leon - Regional Cloud Solutions Architect 
 ![alt text](../assets/RockStageAcademy.png)
+Alexander Leon - Regional Cloud Solutions Architect 
 
 ## Contoso Retail Multi‑Agent Workshop
 
