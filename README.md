@@ -20,5 +20,4 @@ Each language README describes the scenario, architecture and labs in detail for
 
 - Linkedln 🔎 [Alexander Leon](https://www.linkedin.com/in/alexanderleon)
 
-- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6cf73e0a-7f18-409f-a60a-9a800a6cd07c" />
 
