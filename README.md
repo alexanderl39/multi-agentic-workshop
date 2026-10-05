@@ -18,4 +18,4 @@ Each language README describes the scenario, architecture and labs in detail for
 
 - 🇨🇴 [Alexander Leon](https://github.com/alexanderl39) – Regional Cloud Solutions Architect
 
-- Linkedln [Alexander Leon](https://www.linkedin.com/in/alexanderleon) 
+- Linkedln 🔎 [Alexander Leon](https://www.linkedin.com/in/alexanderleon) 
