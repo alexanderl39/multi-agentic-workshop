@@ -1,5 +1,5 @@
 ## <a id="RockStage Academy - MUltiAgentic"></a>RockStage Academy - Multiagentic
-
+![alt text](../assets/RockStageAcademy.png)
 ## <a id="descripcion-general"></a>Descripción general
 
 Este workshop guía a los participantes en el diseño e implementación de una arquitectura **multi-agente** usando servicios de Microsoft, aplicada a un escenario de negocio tipo **Contoso Retail**. El foco del ejercicio no es construir un sistema productivo, sino entender cómo **orquestar agentes con responsabilidades claras** para resolver distintos tipos de preguntas de negocio sobre un mismo conjunto de datos.
