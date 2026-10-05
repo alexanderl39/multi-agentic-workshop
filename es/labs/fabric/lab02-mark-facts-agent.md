@@ -226,4 +226,6 @@ v. Probar nuevamente el agente con la pregunta que no se pudo resolver: What are
 
 ---
 
-## Mission Complete
+## **🎉**** Mission Complete
+
+✅**Tu plataforma de datos ha sido creada y tus datos están listos para ser procesados y consumidos por agentes de IA.** ¡Felicitaciones!
