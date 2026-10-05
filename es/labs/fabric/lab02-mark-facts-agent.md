@@ -212,7 +212,7 @@ v. Probar nuevamente el agente con la pregunta que no se pudo resolver: What are
 ![Nueva sesión de chat](images/M2.b.5.png)
 
 ---
-## 3. Publicación del agente de datos(NO EJECUTAR - Hasta no tener Licencia Microsoft 365 Copilot).
+## 3. Publicación del agente de datos(NO PUBLICAR - Hasta no tener Licencia Microsoft 365 Copilot).
 
 ### a. Seleccionar "Publish" en el menu de opciones del agente
 
