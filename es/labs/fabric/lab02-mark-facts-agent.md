@@ -212,7 +212,7 @@ v. Probar nuevamente el agente con la pregunta que no se pudo resolver: What are
 ![Nueva sesión de chat](images/M2.b.5.png)
 
 ---
-## 3. Publicación del agente de datos.
+## 3. Publicación del agente de datos (No publicar este Agente por temas de Licenciamiento).
 
 ### a. Seleccionar "Publish" en el menu de opciones del agente
 
