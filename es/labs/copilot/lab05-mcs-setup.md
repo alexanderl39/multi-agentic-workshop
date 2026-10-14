@@ -104,7 +104,7 @@ Copia y pega lo siguiente
 - Como **Display name**:  **My Multi Agent Publisher** 
 - Como **Name**: **MyMultiAgentPublr** 
 - Como **Description**: **This is the publisher for my Multi Agent Workshop Solution**  
-- Para el **Prefix**: **mmap** 
+- Para el **Prefix**: **nmap** 
 - De forma predeterminada, el **Choice value** prefix mostrará un valor entero. Actualiza este valor entero al millar más cercano. Por ejemplo, en mi captura de pantalla de abajo, inicialmente era 77074. Actualízalo de 77074 a 77000.
   
 ![imagen](img/image19_MCS_Setup.png)
