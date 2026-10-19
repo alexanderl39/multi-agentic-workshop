@@ -21,7 +21,7 @@
       - [Fase 1 — Descargar la especificación OpenAPI](#fase-1--descargar-la-especificación-openapi)
       - [Fase 2 — Verificar agente existente o crear uno nuevo](#fase-2--verificar-agente-existente-o-crear-uno-nuevo)
       - [Fase 3 — Chat interactivo con Responses API](#fase-3--chat-interactivo-con-responses-api)
-    - [Paso 1: Configurar `appsettings.json`](#paso-1-configurar-appsettingsjson)
+    - **[Paso 1: Configurar `appsettings.json`](#paso-1-configurar-appsettingsjson)**
     - [Paso 2: Compilar y ejecutar](#paso-2-compilar-y-ejecutar)
     - [Paso 3: Inspeccionar el agente en Azure AI Foundry](#paso-3-inspeccionar-el-agente-en-azure-ai-foundry)
     - [Paso 4: Probar el agente](#paso-4-probar-el-agente)
