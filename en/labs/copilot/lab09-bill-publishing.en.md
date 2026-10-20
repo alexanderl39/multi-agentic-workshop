@@ -85,4 +85,6 @@ Let’s test Bill from the Microsoft 365 application.
 Great job! Our Bill agent is now complete.
 
 ✅ Congratulations! You have successfully published your agent, deployed it to a Microsoft 365 experience, and tested it before rolling it out to end users on the retail company site.
+
+   ![imagen](img/RockStageAcademy-FinalMISION.png)
 ``
