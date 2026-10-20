@@ -86,5 +86,5 @@ Probemos Bill desde la aplicación de Microsoft 365.
 
 ✅ ¡Felicitaciones! Has publicado tu agente con éxito, lo implementaste en un sitio web de demostración y lo probaste antes de implementarlo para los usuarios finales en el sitio web de la empresa minorista.
 
-  ![imagen](img/image9_Publish_Bill.png)
+  ![imagen](img/RockStageAcademy-FinalMISION.png)
 
