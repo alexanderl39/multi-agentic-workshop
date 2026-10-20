@@ -85,3 +85,5 @@ Vamos testar o "**Bill**" a partir da aplicação do Microsoft 365.
 Excelente trabalho! Nosso agente "**Bill**" está completo.
 
 ✅ Parabéns! Você publicou seu agente com sucesso, implementou-o em um site de demonstração e o testou antes de implantá-lo para os usuários finais no site da empresa de varejo.
+
+ ![imagem](img/RockStageAcademy-FinalMISION.png)
